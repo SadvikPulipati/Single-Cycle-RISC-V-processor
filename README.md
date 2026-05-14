@@ -1,4 +1,4 @@
-# RV32I Single Cycle Processor Implementation on Basys3 FPGA
+# Single Cycle RISC-V (RV32I) Processor Implementation on Basys3 FPGA
 A complete 32-bit RV32I RISC-V processor designed and implemented in Verilog HDL featuring modular RTL architecture, functional simulation, and FPGA deployment on the Basys3 FPGA board. The processor supports core RV32I instructions and was successfully verified through the execution of custom assembly programs on real FPGA hardware.
 
 The implementation demonstrates correct instruction fetch, decoding, ALU computation, register file operations, memory access, branching, and program control flow. To improve hardware visualization and debugging, the design includes binary-to-BCD conversion, multiplexed seven-segment display interfacing, and real-time output monitoring on the FPGA board.
