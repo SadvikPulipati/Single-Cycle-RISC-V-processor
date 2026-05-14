@@ -7,7 +7,7 @@ A clock divider module is integrated to reduce the Basys3 100 MHz system clock t
 
 
 
-# Project Overview
+## Project Overview
 This project implements a single-cycle 32-bit RISC-V processor based on the RV32I base integer instruction set architecture. The design contains all essential datapath and control modules required for instruction fetch, decode, execution, memory access, and write-back stages.
 The processor was:
 - Designed using Verilog HDL
@@ -20,7 +20,7 @@ The processor supports arithmetic, logical, memory, branch, and jump instruction
 
 
 
-# Key Features
+## Key Features
 - 32-bit RV32I RISC-V processor implementation
 - Single-cycle processor architecture
 - Support for:
